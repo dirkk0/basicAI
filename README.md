@@ -3,14 +3,14 @@
 # Basic AI
 
 This is the recreation of the Basic AI project from the good folks of Renaissance Coders over 
-[on Youtube](https://www.youtube.com/watch?v=s67AYDD3j1E&index=3&list=PL4CCSwmU04Mh8GHV702HxgfRpYmgTwq2l)
+[on Youtube](https://www.youtube.com/watch?v=s67AYDD3j1E&index=3&list=PL4CCSwmU04Mh8GHV702HxgfRpYmgTwq2l).
+It was created with Unity 2017.2.0f3.
 
 
 
 # Step By Step
 
-- import characters from standard assets (menu assets/import package/characters)
-(if you don't see that you need to re-run the installer)
+- import characters from standard assets (menu assets/import package/characters). If you don't see the package you need to re-run the installer)
 
 - create a plane
 (menu game object/3d object/plane)
@@ -22,16 +22,16 @@ This is the recreation of the Basic AI project from the good folks of Renaissanc
 - reveal the navigation menu
 (menu Window/Navigation)
 
-- save you scene
+- save the scene
 
-- in the new navigation tab, go to bake and then press the bake button
+- in the new navigation tab in the inspector, go to bake and then press the bake button
 
 
 
 
 - go to project/assets/standard assets/characters/ThirdPersonCharacter/Prefabs
 
-- drop an ThirdPersonController onto the plane
+- drop a ThirdPersonController onto the plane
 
 - set the tag to 'player'
 
@@ -44,10 +44,10 @@ you should be able to run around with Ethan now
 
 - create a sphere
 - rename it to sphere0
-- set the sphere collider to isTrigger = true
+- check isTrigger in the sphere collider
 
 - duplicate it and move the copy elsewhere
-- rename it to sphere1
+- rename the copy to sphere1
 
 
 
