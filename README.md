@@ -7,6 +7,9 @@ This is the recreation of the Basic AI project from the good folks of Renaissanc
 It was created with Unity 2017.2.0f3.
 
 
+![this is from a previous project, the code is identical to this repository](run.gif)
+
+
 
 # Step By Step
 
