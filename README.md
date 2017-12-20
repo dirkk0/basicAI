@@ -9,6 +9,8 @@ It was created with Unity 2017.2.0f3.
 
 ![this is from a previous project, the code is identical to this repository](run.gif)
 
+*gif is not identical to the scene in this project*
+
 
 
 # Step By Step
