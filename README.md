@@ -15,7 +15,7 @@ It was created with Unity 2017.2.0f3.
 
 # Step By Step
 
-- import characters from standard assets (menu assets/import package/characters). If you don't see the package you need to re-run the installer)
+- import characters from standard assets (menu assets/import package/characters). If you don't see the package you need to re-run the installer.
 
 - create a plane
 (menu game object/3d object/plane)
